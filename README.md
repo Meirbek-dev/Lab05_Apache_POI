@@ -6,6 +6,6 @@
 Вариант - 1
 
 Интерфейс программы:<br/>
-![program](program.PNG)
+![program](program.PNG)<br/><br/>
 Данные, экспоритрованные в Word:<br/>
 ![result](result.PNG)
